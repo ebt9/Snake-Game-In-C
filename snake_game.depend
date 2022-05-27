@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653664157 source:c:\users\startech\desktop\training in c\snake_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
